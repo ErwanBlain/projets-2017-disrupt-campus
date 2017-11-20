@@ -72,6 +72,8 @@ Lien : [https://clemence-ecl.github.io/Visualization_most_viewed_artists/](https
 
 Visualisation du nombre de mots par tweets, en fonction du nombre de caratères. Chaque tweet est ensuite catégorisé selon le genre de la personne qui l'a produit (homme, femme, ou brand).
 
+Lien : [Projet](http://erwanblain.github.io/tweet-plot/index.html)
+
 <p align="center">
   <img src="img/Capture_EB.png" style="width: 400px;">
 </p>
